@@ -1,8 +1,0 @@
-# 赤石计算机设置文件
-# spt: 托盘提示开关 (0=关闭, 1=开启)
-# voice_enabled: 语音播报 (0=关闭, 1=开启)
-# opacity: 窗口透明度 (1-10)
-
-voice_enabled=1
-opacity=10
-spt=0
