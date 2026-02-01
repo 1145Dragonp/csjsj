@@ -1,0 +1,19 @@
+<h1>赤石计算机</h1>
+<br>
+<a href="https://github.com/1145Dragonp/csjsj/tree/main/downlod">下载</a>
+<br>
+ <strong>
+ 1.企业级屎山架构,运行不稳定
+   <br>
+ 2.算力不超过250
+   <br>
+ 3.python开发，优化极差
+   <br>
+ 4.永远算不对
+   <br>
+ 5.减少生产力
+   <br>
+ 6.系统原生ui没有一点视觉效果
+   <br>
+ 7.没有
+ <strong/>
