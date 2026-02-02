@@ -1,6 +1,9 @@
 <h1>赤石计算机</h1>
 <br>
-<a href="https://github.com/1145Dragonp/csjsj/tree/main/downlod">下载</a>
+<details>
+        <summary>下载</summary>
+        <p><a href = "https://www.123865.com/s/OBibTd-D22Zh">下载2.0.0版本</a><br><a href="https://www.123865.com/s/OBibTd-O22Zh">下载1.0.1版本<a/><br><a href="https://www.123865.com/s/OBibTd-N22Zh">下载1.0.0版本<a/></p >
+    </details>
 <br>
  <strong>
  1.企业级屎山架构,运行不稳定
