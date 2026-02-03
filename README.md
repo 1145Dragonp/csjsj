@@ -5,7 +5,7 @@
         <p><a href = "https://www.123865.com/s/OBibTd-D22Zh">下载2.0.0版本</a><br><a href="https://www.123865.com/s/OBibTd-O22Zh">下载1.0.1版本<a/><br><a href="https://www.123865.com/s/OBibTd-N22Zh">下载1.0.0版本<a/></p >
     </details>
 <br>
-<p>本软件基于64位操作系统开发</p>
+<p>本软件基于64位windows操作系统开发</p>
 <br>
 <P>使用方法<p/>
 <br>
