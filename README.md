@@ -2,9 +2,9 @@
 <br>
 <details>
         <summary>下载</summary>
-        <p><a href = "https://www.123865.com/s/OBibTd-D22Zh">下载2.0.0版本</a><br><a href="https://www.123865.com/s/OBibTd-O22Zh">下载1.0.1版本<a/><br><a href="https://www.123865.com/s/OBibTd-N22Zh">下载1.0.0版本<a/></p >
+        <p><a href = "https://www.123865.com/s/OBibTd-D22Zh">高速下载2.0.0版本</a><br><a href="https://www.123865.com/s/OBibTd-O22Zh">下载高速1.0.1版本<a/><br><a href="https://www.123865.com/s/OBibTd-N22Zh">高速下载1.0.0版本<a/></p >
     </details><br>
-<p>本软件基于64位windows操作系统开发</p>
+<p>本软件基于64位windows操作系统开发,Q请不要在32为操作系统打开</p>
 <P>使用方法:<p/>
 1.双击打开<br>
 2.通过按键,输入表达式进行计算
