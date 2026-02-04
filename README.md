@@ -39,4 +39,4 @@
  <strong/>
 
 <br><br>
- <strong><h2>赤石计算机<h2/><h1>你配拥有吗<h1><strong/>
+ <strong><h2>赤石计算机<h2/><h1>你配拥有吗!?<h1><strong/>
